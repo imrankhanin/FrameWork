@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Project Management/ActiTime/jars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Project Management/ActiTime/jars/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Project Management/ActiTime/jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Project Management/ActiTime/jars/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Project Management/ActiTime/jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Project Management/ActiTime/jars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Project Management/ActiTime/jars/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Project Management/ActiTime/jars/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Project Management/ActiTime/jars/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Project Management/ActiTime/jars/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Project Management/ActiTime/jars/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Project Management/ActiTime/jars/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Project Management/ActiTime/jars/selenium-server-standalone-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Project Management/ActiTime/jars/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/imran_000/.eclipse/org.eclipse.platform_4.5.0_1709980481_win32_win32_x86_64/plugins/org.testng.eclipse_6.9.10.201512240000/lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/imran_000/.eclipse/org.eclipse.platform_4.5.0_1709980481_win32_win32_x86_64/plugins/org.testng.eclipse_6.9.10.201512240000/lib/guava-base-r03.jar"/>
+	<classpathentry kind="lib" path="C:/Users/imran_000/.eclipse/org.eclipse.platform_4.5.0_1709980481_win32_win32_x86_64/plugins/org.testng.eclipse_6.9.10.201512240000/lib/guava-collections-r03.jar"/>
+	<classpathentry kind="lib" path="C:/Users/imran_000/.eclipse/org.eclipse.platform_4.5.0_1709980481_win32_win32_x86_64/plugins/org.testng.eclipse_6.9.10.201512240000/lib/jcommander.jar"/>
+	<classpathentry kind="lib" path="C:/Users/imran_000/.eclipse/org.eclipse.platform_4.5.0_1709980481_win32_win32_x86_64/plugins/org.testng.eclipse_6.9.10.201512240000/lib/snakeyaml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/imran_000/.eclipse/org.eclipse.platform_4.5.0_1709980481_win32_win32_x86_64/plugins/org.testng.eclipse_6.9.10.201512240000/lib/testng.jar"/>
+	<classpathentry kind="lib" path="C:/Users/imran_000/.eclipse/org.eclipse.platform_4.5.0_1709980481_win32_win32_x86_64/plugins/org.testng.eclipse_6.9.10.201512240000/lib/testng-remote.jar"/>
+	<classpathentry kind="lib" path="C:/Users/imran_000/.eclipse/org.eclipse.platform_4.5.0_1709980481_win32_win32_x86_64/plugins/org.testng.eclipse_6.9.10.201512240000/lib/testng-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk8"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
