@@ -11,5 +11,5 @@
       <class name="com.actitime.tests.DemoTest"/>
       <class name="com.actitime.tests.ValidLoginLogoutTest"/>
     </classes>
-  </test> <!-- Test -->
+  </test> <!-- Test upload to git-->
 </suite> <!-- Suite -->
